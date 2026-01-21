@@ -5,7 +5,8 @@
   "main": "index.js",
   "private": false,
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js", 
+“build＂: "echo \"No build needed for static site\""
   },
   "dependencies": {
     "axios": "latest",
